@@ -1,4 +1,4 @@
-<img width="1434" height="355" alt="Screenshot 2025-11-30 105250" src="https://github.com/user-attachments/assets/71edd97d-3e80-4a5c-8d7d-944be6c07197" />🌐 WhatsApp Chat Analyzer
+🌐 WhatsApp Chat Analyze
 
 An interactive Streamlit-based application that provides deep analysis of WhatsApp chat data, including message statistics, sentiment, media insights, emoji analysis, busiest users, timelines, and more.
 
