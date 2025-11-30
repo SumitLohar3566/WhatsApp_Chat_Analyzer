@@ -122,10 +122,8 @@ Upload the exported .txt file into the app.
 
 ✨ Dark Theme UI
 
-📝 Author
+📞 Contact Developer: 
 Sumit Lohar
-ML & Data Science Enthusiast
-📧 Email:sumitlohar063@gmail.com
-🐙 GitHub:[ https://github.com/YOUR-USERNAME](https://github.com/SumitLohar3566/WhatsApp_Chat_Analyzer/new/master?filename=README.md)
-
+📧 Email:sumitlohar063@gmail.com 
+🐙 GitHub: https://github.com/YOUR-USERNAME 
 🔗 LinkedIn:https://www.linkedin.com/feed/
