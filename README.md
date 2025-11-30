@@ -107,7 +107,6 @@ Upload the exported .txt file into the app.
 <img width="1404" height="734" alt="Screenshot 2025-11-30 103343" src="https://github.com/user-attachments/assets/ddc3b204-bd4c-4e54-8050-f73aaeb744b6" />
 <img width="1454" height="656" alt="Screenshot 2025-11-30 103401" src="https://github.com/user-attachments/assets/d73a14c7-142b-4c13-9ab3-adfeb47e0b2c" />
 <img width="1454" height="695" alt="Screenshot 2025-11-30 103413" src="https://github.com/user-attachments/assets/668c45f1-04d1-4283-aec8-7b1c346313da" />
-<img width="1434" height="355" alt="Screenshot 2025-11-30 105250" src="https://github.com/user-attachments/assets/4ffcf629-4461-491c-9ee7-2b086094214e" />
 
 🤖 Future Enhancements
 
