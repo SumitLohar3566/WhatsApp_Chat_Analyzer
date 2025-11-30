@@ -2,11 +2,11 @@
 
 An interactive Streamlit-based application that provides deep analysis of WhatsApp chat data, including message statistics, sentiment, media insights, emoji analysis, busiest users, timelines, and more.
 
-📌 📸 Project Preview
+- 📸 Project Preview
 <img width="1913" height="802" alt="Screenshot 2025-11-30 102140" src="https://github.com/user-attachments/assets/2ce66a47-3b51-4abd-8235-d7a44c6814c2" />
 <img width="1905" height="809" alt="Screenshot 2025-11-30 102156" src="https://github.com/user-attachments/assets/75919454-12da-4198-89eb-ecc3172b0baa" />
 
-🚀 Features
+- Features
 ✔ 1. Basic Chat Statistics
 
 Total Messages
@@ -67,7 +67,7 @@ Streamlit UI
 
 Dynamic charts
 
-🧠 Tech Stack
+- Tech Stack
 Technology	Purpose
 Python	Core logic
 Pandas	Data processing
