@@ -125,5 +125,5 @@ Upload the exported .txt file into the app.
 📞 Contact Developer: 
 Sumit Lohar
 📧 Email:sumitlohar063@gmail.com 
-🐙 GitHub: https://github.com/YOUR-USERNAME 
+🐙 GitHub:[ https://github.com/YOUR-USERNAME](https://github.com/SumitLohar3566) 
 🔗 LinkedIn:(https://www.linkedin.com/in/sumit-lohar-498341317/)
