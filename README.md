@@ -7,6 +7,7 @@ An interactive Streamlit-based application that provides deep analysis of WhatsA
 <img width="1905" height="809" alt="Screenshot 2025-11-30 102156" src="https://github.com/user-attachments/assets/75919454-12da-4198-89eb-ecc3172b0baa" />
 
 - Features
+
 ✔ 1. Basic Chat Statistics
 
 Total Messages
