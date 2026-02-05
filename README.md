@@ -82,7 +82,7 @@ WhatsApp-Chat-Analyzer/
 │── requirements.txt
 │── README.md
 
-🔧 Installation & Setup
+- Installation & Setup
 1. Clone the Repository
 git clone https://github.com/your-username/whatsapp-chat-analyzer.git
 cd whatsapp-chat-analyzer
