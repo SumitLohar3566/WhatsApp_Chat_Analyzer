@@ -8,7 +8,7 @@ An interactive Streamlit-based application that provides deep analysis of WhatsA
 
 - Features
 
-✔ 1. Basic Chat Statistics
+ 1. Basic Chat Statistics
 
 Total Messages
 
@@ -20,7 +20,7 @@ Links Shared
 
 Deleted Messages
 
-✔ 2. User-based Insights
+ 2. User-based Insights
 
 Most Active Users
 
@@ -28,7 +28,7 @@ Percentage Participation Chart
 
 User-specific Message Stats
 
-✔ 3. Emoji & Text Analysis
+ 3. Emoji & Text Analysis
 
 Emoji count table
 
@@ -38,7 +38,7 @@ Most used words
 
 Word Frequency Bar Graph
 
-✔ 4. Chat Timelines
+ 4. Chat Timelines
 
 Daily Timeline
 
@@ -50,7 +50,7 @@ Monthly Activity Map
 
 Weekly Heatmap
 
-✔ 5. Chat Type Detection
+ 5. Chat Type Detection
 
 Automatically detects whether the uploaded chat is:
 
@@ -58,7 +58,7 @@ Android (2022 format)
 
 iPhone format
 
-✔ 6. Beautiful Visualizations
+ 6. Beautiful Visualizations
 
 Matplotlib
 
@@ -84,7 +84,7 @@ WhatsApp-Chat-Analyzer/
 
 - Installation & Setup
 1. Clone the Repository
-git clone https://github.com/your-username/whatsapp-chat-analyzer.git
+https://github.com/SumitLohar3566/WhatsApp_Chat_Analyzer
 cd whatsapp-chat-analyzer
 
 2. Install Dependencies
